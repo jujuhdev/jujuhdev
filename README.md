@@ -6,7 +6,7 @@
   <a href="#"><img src="https://img.shields.io/badge/-Website-%23a626a6?style=for-the-badge" target="_blank"></a>
   </div>
 
-  <img align="right" alt= "Designer dev" src="https://github.com/jujuhdev/jujuhdev/blob/main/Designer%20girl-bro.png" width="350"/>
+  <img align="right" alt= "Designer dev" src="https://github.com/jujuhdev/jujuhdev/blob/main/Designer%20girl-bro.png" width="380"/>
 
   ## Oie, me chamo jolieny :)
   ( HTML | CSS | Javascript ) 👩🏻‍💻
